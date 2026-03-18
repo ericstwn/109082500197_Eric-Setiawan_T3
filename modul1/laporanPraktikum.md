@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - ... </h1>
+# <h1 align="center">Laporan Praktikum Modul 3 - ... </h1>
 <p align="center">[Eric Setiawan] - [109082500197]</p>
 
 ## Unguided 
